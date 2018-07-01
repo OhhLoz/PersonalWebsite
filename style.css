@@ -75,19 +75,19 @@ html, body {
   margin-bottom: 1rem;
 }
 
-.fa-code {
+.devicon-cplusplus-plain {
   color: #e54d26;
 }
 
-.fa-bold {
+.devicon-java-plain {
   color: #563d7c;
 }
 
-.fa-css3 {
+.devicon-php-plain {
   color: #2163af;
 }
 
-.fa-code, .fa-bold, .fa-css3{
+.devicon-cplusplus-plain, .devicon-java-plain, .devicon-php-plain{
   font-size: 4em;
   margin: 1rem;
 }
