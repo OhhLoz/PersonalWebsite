@@ -27,7 +27,7 @@ html, body {
 .carousel-caption {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-20%);
 }
 
 .carousel-caption h1 {
@@ -90,15 +90,6 @@ html, body {
 .devicon-cplusplus-plain, .devicon-java-plain, .devicon-php-plain{
   font-size: 4em;
   margin: 1rem;
-}
-
-.fun{
-  width: 100%;
-  margin-bottom: 2rem;
-}
-
-.gif{
-  max-width: 100%;
 }
 
 .social a{
@@ -250,7 +241,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/mac.png');
+  background-image: url('img/superbackground.png');
   position: fixed;
   display: block;
   top: 0;
