@@ -43,3 +43,25 @@ hr.light-100{
   margin-top: .8rem;
   margin-bottom: 1rem;
 }
+
+@media (max-width: 992px)
+{
+  .social a{
+    font-size: 4em;
+    padding: 2rem;
+  }
+}
+@media (max-width: 768px)
+{
+  .social a{
+    font-size: 2.5em;
+    padding: 1.2rem;
+  }
+}
+@media (max-width: 576px)
+{
+  .social a {
+    font-size: 2em;
+    padding: 0.7rem;
+  }
+}
