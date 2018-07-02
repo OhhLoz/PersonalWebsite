@@ -7,18 +7,6 @@ html, body {
   color: #222
 }
 
-.navbar {
-  padding: .8rem;
-}
-
-.navbar-nav li {
-  padding-right: 20px;
-}
-
-.nav-link {
-  font-size: 1.1em !important;
-}
-
 .carousel-inner img {
   width: 100%;
   height: 100%;
@@ -90,59 +78,6 @@ html, body {
 .devicon-cplusplus-plain, .devicon-java-plain, .devicon-php-plain{
   font-size: 4em;
   margin: 1rem;
-}
-
-.social a{
-  font-size: 4.5em;
-  padding: 3rem;
-}
-
-.fa-facebook-f{
-  color: #3b5998;
-}
-
-.fa-twitter{
-  color: #00aced;
-}
-
-.fa-github{
-  color: #333;
-}
-
-.fa-linkedin-in{
-  color: #0077b5;
-}
-
-.fa-envelope{
-  color: #d34836;
-}
-
-.fa-facebook-f:hover, .fa-twitter:hover, .fa-github:hover, .fa-linkedin-in:hover, .fa-envelope:hover{
-  color: #d5d5d5;
-}
-
-footer {
-  background-color: #3f3f3f;
-  color: #d5d5d5;
-  padding-top: 2rem;
-}
-
-hr.light{
-  border-top: 1px solid #d5d5d5;
-  width: 75%;
-  margin-top: .8rem;
-  margin-bottom: 1rem;
-}
-
-footer a{
-  color: #d5d5d5;
-}
-
-hr.light-100{
-  border-top: 1px solid #d5d5d5;
-  width: 100%;
-  margin-top: .8rem;
-  margin-bottom: 1rem;
 }
 
 /*---Media Queries --*/
@@ -258,29 +193,6 @@ figure {
 [class*="col-"] {
     padding: 1rem;
 }
-
-/*--- Temp Fix of Huge Icon ---*/
-
-.navbar-brand{
-  width: 50px;
-}
-
-.navbar-brand img{
-  height: 100%;
-  width: 100%;
-}
-
-.footerimg{
-  text-align:center;
-  height: 50px;
-}
-
-.footerimg img{
-  height: 100%;
-  display: inline-block;
-  margin: 0 auto;
-}
-
 
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
